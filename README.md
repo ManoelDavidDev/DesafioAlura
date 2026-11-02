@@ -172,7 +172,7 @@ java Main
 Feito com dedicação por **Manoel David**! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-ManoelDavidDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoelDavidDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoel%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoeldavid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoel%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoeldaviddev/)
 
 ---
 
